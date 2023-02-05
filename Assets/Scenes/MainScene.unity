@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 40
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &145112479
 Transform:
   m_ObjectHideFlags: 0
@@ -499,7 +499,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 40
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &257479288
 Transform:
   m_ObjectHideFlags: 0
@@ -1607,7 +1607,7 @@ MonoBehaviour:
   timeText: {fileID: 817513515}
   scoreText: {fileID: 1066690319}
   scoreValue: 0
-  _duration: 200
+  _duration: 60
   gameRunning: 0
   play: {fileID: 0}
   pause: {fileID: 0}
@@ -2125,7 +2125,7 @@ MonoBehaviour:
   timeText: {fileID: 817513515}
   scoreText: {fileID: 1066690319}
   scoreValue: 0
-  _duration: 200
+  _duration: 60
   gameRunning: 0
   play: {fileID: 1549622439}
   pause: {fileID: 1215934318}
@@ -2160,7 +2160,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 40
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1170903950
 Transform:
   m_ObjectHideFlags: 0
@@ -2424,7 +2424,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 40
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1223492206
 Transform:
   m_ObjectHideFlags: 0
